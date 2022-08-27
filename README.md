@@ -1,11 +1,2 @@
-# Jelos-first-repo
-A repository I made for a Github video tutorial I'm watching.
-
-## Subheader
-
-Watch tutorial on youtube
-
-## Local Development
-
-1. Open index.html in your browser.
-2. Have fun.
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
