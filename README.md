@@ -4,4 +4,4 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 Garbage $ax^2 + bx + c = 0$, ahhhh
 
-Inline math expression: $ ax + b $
+Inline math expression:$ax + b$
